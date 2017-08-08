@@ -45,9 +45,6 @@ body.nav-sm .nav.side-menu li a {
     padding: 10px 5px;
 }
 
-body.nav-sm .nav.side-menu li.active-sm {
-    border-right: 5px solid #1ABB9C;
-}
 
 body.nav-sm > .nav.side-menu > li.active-sm > a {
     color: #1ABB9C !important;
